@@ -2,12 +2,12 @@
 A python application that recognize a color by double clicking on it in an image
 
 ## Requirements
--	OpenCV
--	Pandas
--	Numpy
+-	[OpenCV](https://opencv.org/)
+-	[Pandas](https://pandas.pydata.org/)
+-	[Numpy](https://numpy.org/)
 
 ## The Colors
-The colors data is obtained from a [repo](github.com/codebrainz/color-names/blop/master/output/colors.csv). Which has a lot of colors' names it's hex code as well as the R, G and B channel codes. Thanks to [codebrainz](github.com/codebrainz).
+The colors data is obtained from a [repo](github.com/codebrainz/color-names/blop/master/output/colors.csv). Which has a lot of colors' names, it's hex code as well as the RGB channel codes. Thanks to [codebrainz](github.com/codebrainz) for having this.
 
 ## The Code Flow
 -	Import the libraries
